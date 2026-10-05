@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<string.h>
 
-
+//driver code
 int main(){
     char  input[][20] = {"flower", "flow", "flight"};
     int numberOfstrings = 3;

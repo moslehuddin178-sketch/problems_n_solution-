@@ -16,13 +16,5 @@ int main(){
     for (int j = 0; j < comp; j++)
         printf(" ");
 
-    //second inner loop to peint stars
-    for (int k = 0; k < 2 * n - comp; k++) {
-        printf(" 1");
-    }
-    printf("\n");
-    }
-
-    return 0;
-
+   
 }
