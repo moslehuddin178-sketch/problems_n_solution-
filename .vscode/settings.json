@@ -1,0 +1,5 @@
+{
+    "code-runner.runInTerminal": true,
+    "code-runner.respectShebang": false,
+    "C_Cpp.errorSquiggles": "disabled"
+}
